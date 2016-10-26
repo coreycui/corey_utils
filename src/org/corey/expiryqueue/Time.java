@@ -1,4 +1,4 @@
-package org.corey;
+package org.corey.expiryqueue;
 
 import java.util.Date;
 

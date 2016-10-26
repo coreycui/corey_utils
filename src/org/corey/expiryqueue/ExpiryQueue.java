@@ -16,7 +16,7 @@
  * limitations under the License.
  */
 
-package org.corey;
+package org.corey.expiryqueue;
 
 import java.io.PrintWriter;
 import java.util.ArrayList;
