@@ -1,4 +1,4 @@
-package org.corey.expiryqueue;
+package org.corey.net;
 
 import java.net.SocketException;
 import java.nio.channels.SocketChannel;
